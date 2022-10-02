@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="UID.webdriver_manager" />
+          <option value="ChromeDriverManager" />
+          <option value="itert4ools" />
+          <option value="signup.views" />
+          <option value="login.views" />
+          <option value="pr.db_config" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
